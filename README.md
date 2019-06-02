@@ -1,3 +1,5 @@
 # git tutorial
 
-- feature-a
+-feature-a
+-git fix-b
+-feature-cc
